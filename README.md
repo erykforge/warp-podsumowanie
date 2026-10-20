@@ -1,16 +1,16 @@
-Moja ścieżka w informatyce
+<h2>Moja ścieżka w informatyce</h2>
 
 Repozytorum zawiera dokumentację opisującą moją dotychczasową naukę porgramowania, poznane narzędzia oraz ele związne z rozwojem w brańzy IT.
 
 
 
-Dokumentacja
+<strong>Dokumentacja</strong>
 
 Szczegółowy opis znajduje się w pliku ścieżka.md.
 
 
 
-Techonologie i narzędzia
+<strong>Techonologie i narzędzia</strong>
 
 * C#
 * Git
@@ -20,7 +20,7 @@ Techonologie i narzędzia
 
 
 
-Przydatny materiał
+<strong>Przydatny materiał<strong>
 
 [Podstawy składni Markdown](https://www.markdownguide.org/basic-syntax/).
 
