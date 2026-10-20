@@ -1,1 +1,28 @@
-# warp-podsumowanie
+Moja ścieżka w informatyce
+
+Repozytorum zawiera dokumentację opisującą moją dotychczasową naukę porgramowania, poznane narzędzia oraz ele związne z rozwojem w brańzy IT.
+
+
+
+Dokumentacja
+
+Szczegółowy opis znajduje się w pliku ścieżka.md.
+
+
+
+Techonologie i narzędzia
+
+* C#
+* Git
+* Github
+* Jetbrains Rider
+* Markdown
+
+
+
+Przydatny materiał
+
+Podstawy składni Markdown.
+
+
+
