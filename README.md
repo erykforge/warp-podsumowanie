@@ -20,7 +20,7 @@ Szczegółowy opis znajduje się w pliku ścieżka.md.
 
 
 
-<strong>Przydatny materiał<strong>
+<strong>Przydatny materiał</strong>
 
 [Podstawy składni Markdown](https://www.markdownguide.org/basic-syntax/).
 
