@@ -26,3 +26,14 @@ Podstawy składni Markdown.
 
 
 
+\## Struktura repozytorium
+
+* 'README.md' - opis projektu i odnośniki do dokumentacji.
+* 'ścieżka.md' - opis mojej nauki, umiejętności i celów
+
+
+
+\## Status projektu
+
+Dokumentacja została przygotowana w języku markdown
+
