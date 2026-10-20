@@ -22,14 +22,14 @@ Techonologie i narzędzia
 
 Przydatny materiał
 
-Podstawy składni Markdown.
+\[Podstawy składni Markdown](https://www.markdownguide.org/basic-syntax/).
 
 
 
 \## Struktura repozytorium
 
 * 'README.md' - opis projektu i odnośniki do dokumentacji.
-* 'ścieżka.md' - opis mojej nauki, umiejętności i celów
+* '\[ścieżka.md](./ścieżka.md)' - opis mojej nauki, umiejętności i celów
 
 
 
